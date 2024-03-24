@@ -3,7 +3,7 @@ A simple Streamlit app showing the Population of different countries in the worl
 
 Access the App: https://global-population.streamlit.app/
 
-<img width="1497" alt="image" src="https://github.com/parker84/population-dashboard/assets/12496987/5b4dec76-ab3b-4a25-891f-133cfe35e2c6">
+<img width="1497" alt="image" src="https://github.com/parker84/population-dashboard/assets/12496987/6b03e547-55cc-4c00-8038-eea4853dc620">
 
 
 
